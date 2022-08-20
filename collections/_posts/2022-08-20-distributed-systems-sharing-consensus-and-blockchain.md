@@ -8,32 +8,56 @@ A blockchain is a decentralized distributed database or ledger that is
 shared among the nodes of a network."
 
 image: "/assets/images/blog/blog_img_1.jpg"
+image_alt: "Portfolio Image"
 featured: true
 author: "Pei_Jia"
 tags: "technology distributed consensus raft blockchain bitcoin"
 ---
 
-Computer users and programmers have become so accustomed to windows,
-even for the changing capabilities and the appearances of the interface 
-of the versions, therefore it has remained Microsoft’s product. 
-Although, Lycoris, Red Hat, Mandrake, Suse, Knoppix, Slackware and Lindows 
-make up some of the different versions of LINUX. These companies release 
-their own versions of the systems with minor changes, and yet always with 
-the same bottom line. The simple fact that not one of these companies are 
-close to competing with Windows, for the most part causes the difference 
-in market share.
+Start.
 
-It sometimes seems everyone on the planet is using Windows. Many say Windows
-is way better than LINUX because of the simple handling of the hardware. 
-There are huge differences between the number of users of windows. 
-Many say LINUX is far better because it started as an Open Source software
-and thus is flexible than Windows. Then what accounts for the enormous 
-difference in market share between these two operating systems.
+![001](/assets/images/share-blockchain/001.jpeg)
+![002](/assets/images/share-blockchain/002.jpeg)
+![003](/assets/images/share-blockchain/003.jpeg)
+![004](/assets/images/share-blockchain/004.jpeg)
+![005](/assets/images/share-blockchain/005.jpeg)
+![006](/assets/images/share-blockchain/006.jpeg)
+![007](/assets/images/share-blockchain/007.jpeg)
+![008](/assets/images/share-blockchain/008.jpeg)
+![009](/assets/images/share-blockchain/009.jpeg)
+![010](/assets/images/share-blockchain/010.jpeg)
 
-It won’t be a bigger problem to find one video game lover in your neighbor. 
-Since the introduction of Virtual Game, it has been achieving great heights 
-so far as its popularity and technological advancement are concerned. The 
-history of video game is as interesting as a fairy tale. The quality of 
-today’s video game was not at all there when video game first conceptualized
-and played ever. During the formulative years, video games were created by 
-using various interactive electronic devices with various display formats.
+![011](/assets/images/share-blockchain/011.jpeg)
+![012](/assets/images/share-blockchain/012.jpeg)
+![013](/assets/images/share-blockchain/013.jpeg)
+![014](/assets/images/share-blockchain/014.jpeg)
+![015](/assets/images/share-blockchain/015.jpeg)
+![016](/assets/images/share-blockchain/016.jpeg)
+![017](/assets/images/share-blockchain/017.jpeg)
+![018](/assets/images/share-blockchain/018.jpeg)
+![019](/assets/images/share-blockchain/019.jpeg)
+![020](/assets/images/share-blockchain/020.jpeg)
+
+![021](/assets/images/share-blockchain/021.jpeg)
+![022](/assets/images/share-blockchain/022.jpeg)
+![023](/assets/images/share-blockchain/023.jpeg)
+![024](/assets/images/share-blockchain/024.jpeg)
+![025](/assets/images/share-blockchain/025.jpeg)
+![026](/assets/images/share-blockchain/026.jpeg)
+![027](/assets/images/share-blockchain/027.jpeg)
+![028](/assets/images/share-blockchain/028.jpeg)
+![029](/assets/images/share-blockchain/029.jpeg)
+![030](/assets/images/share-blockchain/030.jpeg)
+
+![031](/assets/images/share-blockchain/031.jpeg)
+![032](/assets/images/share-blockchain/032.jpeg)
+![033](/assets/images/share-blockchain/033.jpeg)
+![034](/assets/images/share-blockchain/034.jpeg)
+![035](/assets/images/share-blockchain/035.jpeg)
+![036](/assets/images/share-blockchain/036.jpeg)
+![037](/assets/images/share-blockchain/037.jpeg)
+![038](/assets/images/share-blockchain/038.jpeg)
+![039](/assets/images/share-blockchain/039.jpeg)
+
+
+The end.
