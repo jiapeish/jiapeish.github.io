@@ -2,7 +2,7 @@
 title: "Today, many people rely on photography as homework."
 description: "Do you belong to a group that helps make a difference in people’s lives. Does your group struggle to find ways to help others? Tired of the same old bake yard Sale and contribute the proceeds to a worthy cause."
 image: "/assets/images/blog/blog_img_1.jpg"
-featured: true
+featured: false
 author: "Angel_Stephens"
 tags: "business creative conference event"
 ---

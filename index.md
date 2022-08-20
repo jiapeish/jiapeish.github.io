@@ -6,7 +6,7 @@ group: "Home"
 ############################ Banner ##################################
 banner:
   title: 'We take <span class="d-md-block">digital experience</span> to the next level'
-  content: "Dexfolio is a creative web agency that help it’s customer starting there online business & unique products."
+  content: "Jiapeish is a creative web agency that help it’s customer starting there online business & unique products."
   image: "/assets/images/banner/banner_bg_1.jpg"
   button:
     link: "/about"
