@@ -8,7 +8,6 @@ A blockchain is a decentralized distributed database or ledger that is
 shared among the nodes of a network."
 
 image: "/assets/images/blog/blog_img_1.jpg"
-image_alt: "Portfolio Image"
 featured: true
 author: "Pei_Jia"
 tags: "technology distributed consensus raft blockchain bitcoin"
@@ -18,6 +17,8 @@ Start.
 
 ![001](/assets/images/share-blockchain/001.jpeg)
 ![002](/assets/images/share-blockchain/002.jpeg)
+
+---
 ![003](/assets/images/share-blockchain/003.jpeg)
 ![004](/assets/images/share-blockchain/004.jpeg)
 ![005](/assets/images/share-blockchain/005.jpeg)
@@ -32,6 +33,8 @@ Start.
 ![013](/assets/images/share-blockchain/013.jpeg)
 ![014](/assets/images/share-blockchain/014.jpeg)
 ![015](/assets/images/share-blockchain/015.jpeg)
+
+---
 ![016](/assets/images/share-blockchain/016.jpeg)
 ![017](/assets/images/share-blockchain/017.jpeg)
 ![018](/assets/images/share-blockchain/018.jpeg)
@@ -55,9 +58,11 @@ Start.
 ![034](/assets/images/share-blockchain/034.jpeg)
 ![035](/assets/images/share-blockchain/035.jpeg)
 ![036](/assets/images/share-blockchain/036.jpeg)
+
+---
+
 ![037](/assets/images/share-blockchain/037.jpeg)
 ![038](/assets/images/share-blockchain/038.jpeg)
 ![039](/assets/images/share-blockchain/039.jpeg)
-
 
 The end.
